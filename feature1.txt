@@ -1,0 +1,2 @@
+This is a file in feature 1
+added another line to txt file.
